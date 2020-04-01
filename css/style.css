@@ -1,0 +1,32 @@
+*, body{
+    padding: 0;
+    margin: 0;
+}
+.cal{
+    width: 300px;
+    border: 2px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: black;
+    color: white;
+}
+.border-box{
+    margin-top: 2px;
+    border: 2px solid black;
+}
+.text{
+    margin-top: 4px;
+    font-size: 30px;
+    text-align: right;
+    min-height: 40px;
+}
+.btn{
+    border: 1px solid black;
+    margin: 2px 0px;
+    width: 4%;
+}
+.double{
+    width: 37%;
+}
